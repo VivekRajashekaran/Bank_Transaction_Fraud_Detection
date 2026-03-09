@@ -1,4 +1,3 @@
-
 # Ignore the specific virtual env folder you are using
 .venv/
 
