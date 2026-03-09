@@ -1,6 +1,9 @@
 
-# Ignore virtual environments
-venv/
+# Ignore the specific virtual env folder you are using
 .venv/
+
+# General ignores just in case
+venv/
 env/
-ENV/
+__pycache__/
+*.py[cod]
